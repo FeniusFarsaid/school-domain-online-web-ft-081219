@@ -22,5 +22,8 @@ end
     @roster[grade]
   end
   
+  def sort 
+    binding.pry
+  
   
 end   

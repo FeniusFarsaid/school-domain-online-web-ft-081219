@@ -23,7 +23,10 @@ end
   end
   
   def sort 
-    binding.pry
+    @roster.each do |name, grade|
+      grade.sort!
+    end
+  end
   end 
   
 end   

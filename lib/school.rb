@@ -24,6 +24,6 @@ end
   
   def sort 
     binding.pry
-  
+  end 
   
 end   

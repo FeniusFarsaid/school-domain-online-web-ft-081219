@@ -16,7 +16,6 @@ class School
     if @roster[grade] ||= []
     @roster[grade] << name
   end 
-    binding.pry
     
   end
   
